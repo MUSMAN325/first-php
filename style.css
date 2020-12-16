@@ -1,0 +1,20 @@
+
+
+input{
+    display: block;
+    width: 300px;
+    height: 40px;
+   
+   
+} 
+.container{
+  
+    /* max-width: 500px; */
+    padding: 30px 0px;
+}
+.pad{
+    max-width: 500px;
+    background-color:aliceblue;
+
+}
+
